@@ -8,3 +8,7 @@ In Assignment 2, we improved upon Assignment 1 code by:
 4.   Ideating a new solution based on class material.
 5.   Creating a multi-line plot visualization to show daily fluctuations in air pollution.
 
+In Assignment 3, we improved upon Assignment 2 code by:
+1.   Adding GeoSpatial plotting with GeoPandas
+2.   Completing missing data imputation
+3.   Producing and interpreting plots with complete dataset.
